@@ -82,7 +82,6 @@ function menosQueNoventa(num) {
   } else {
     return false;
   }
-  }
 }
 
 function mayorQueCincuenta(num) {
@@ -106,7 +105,6 @@ function esPar(num) {
     return true;
   } else {
     return false;
-  }
   }
 }
 
